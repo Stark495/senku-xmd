@@ -7,7 +7,7 @@
       "antilink": false,
       "response": true,
       "autoreact": false,
-      "prefix": ".",
+      "prefix": "!",
       "reaction": "🌹",
       "welcome": false,
       "record": false,
